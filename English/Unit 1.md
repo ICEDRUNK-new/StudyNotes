@@ -15,7 +15,7 @@ Content should be well-researched, genuine, precise, and contextual. To achieve 
 
 Then you must outline clearly basing on answers before, so that your audiences can follow topic easily. Most presentations are organized  with three parts: introduction, main part and closing. There is a normal format image below.
 
- ![](国际学术会议实用英语教程.jpg)
+ ![](C:\Users\YH Y\Desktop\Reader\studynotes\国际学术会议实用英语教程.jpg)
 
 Depending on the time limit, you need to be selective in the body where you may wish to cover only the most relevant and interesting points in a logical and coherent order, such as chronological, topical, cause and effect, comparison and contract, or problem-solution orders. It is also important to state the links between your ideas clearly with transitional devices to help the audience follow the direction of your talk: firstly...;secondly...; another important point is...; on the other hand, ...; I would now
 like to move on to another aspect of the research ...
